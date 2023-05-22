@@ -1,4 +1,14 @@
 # **Projeto React e API's**
+
+Surge: victorpokedexozemela.surge.sh
+
+<img src="![Screenshot_12](https://github.com/OldDeux/projeto-react-apis/assets/114445075/d16798e4-ce26-4e26-b382-0d62acbdd5b2)
+" alt="pagina1"/>
+<img src="![Screenshot_13](https://github.com/OldDeux/projeto-react-apis/assets/114445075/dad96cf0-bbc8-406e-886f-08e0e6357404)
+" alt="pagina2"/>
+<img src="![Screenshot_14](https://github.com/OldDeux/projeto-react-apis/assets/114445075/c9228b3b-5874-4ff3-94ea-5ba3c0cd3d7f)
+" alt="pagina3"/>
+	
 O Projeto React e APIs é um site de pokémons que possui três páginas: Home, Pokedex e Detalhes. O projeto está subdivido em temas de acordo com os conteúdos que estudado durante o Módulo 2 - Frontend.
 
 Este projeto terá como fonte de dados para a sua criação a [Poke Api](https://pokeapi.co/ "Poke Api"), uma Api pública, muito usada para aplicações focadas em aprendizado de programação e também usada em cases de processos seletivos.
